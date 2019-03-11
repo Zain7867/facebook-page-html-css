@@ -1,0 +1,108 @@
+.fb_body {
+    background: #e9ebee;
+    font-family: Helvetica, sans-serif, Arial;
+    margin: 0;
+}
+
+.fb_head {
+    margin: 0;
+    padding-top: 10px;
+    height: 72px;
+    font-size: 22px;
+    text-align: center;
+    background-color: #3b5998;;
+    background-image: linear-gradient(#4e69a2, #3b5998 50%);
+    border-bottom: 1px solid #133783;
+    color: white;
+}
+
+.fb_logo {
+    width: 750px;
+    margin-top: -20px;
+    text-align: center;
+    color: white;
+}
+
+.fb_space {
+    padding: 40px 0;
+}
+
+.fb_form {
+    margin-left: 452px;
+    margin-right: 470px;
+    background: #fff;
+}
+
+.fb_contain {
+    font-size: 20px;
+    padding: 25px;
+    margin-left: 130px;
+}
+
+.fb_heading {
+    font-size: 18px;
+margin-left: 70px;
+}
+.inputi {
+    width: 300px;
+    height: 30px;
+    border-radius: 2px;
+    color: darkgrey;
+    border: 1px solid lightgray;
+    font-size: 14px;
+}
+
+#spac1 {
+    margin-top: 13px;
+}
+
+#fb_button {
+    background-color: #4267b2;
+    width: 305px;
+    color: white;
+    height: 47px;
+    margin-top: 13px;
+}
+
+.fb_fogot {
+    font-size: 13px;
+    color: #4267b2;
+    margin-top: 10px;
+}
+#fog1 {
+    margin-left: 45px;
+}
+
+.fb_footer {
+
+    font-size: 14px;
+    color: darkgrey;
+    background: white;
+    position: fixed;
+    bottom: 0;
+    width: -moz-available;
+
+}
+#hr1 {
+    width: 60%;
+    border: 1px solid lightgray;
+}
+.footer_text {
+    margin-left: 20%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
